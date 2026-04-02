@@ -100,3 +100,8 @@ Interactive Filters (Slicers)
 📊 Excel Dashboard
 📄 Documentation
 📽️ Presentation
+
+
+Course: Professional Certificate in Data Science (Jan 2026 Batch)
+Institution: Newton School
+Author: Sandeep Koduru
